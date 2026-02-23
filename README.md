@@ -51,7 +51,7 @@ En los siguientes enlaces se puede consultar el trabajo de prototipado y la defe
 * 🎨 **[Prototipo Interactivo en Figma](ENLACE_A_TU_FIGMA_AQUI)**
     > *Contiene los wireframes, flujos de pantalla, paleta de colores y componentes Material Design utilizados.*
 
-* 📊 **[Presentación UI/UX en Canva]([hdeab808e19](https://www.canva.com/design/DAHCFGjVfgI/ZUf8sKgSINA2wheZSoEZyQ/view?utm_content=DAHCFGjVfgI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdeab808e19))**
+* 📊 **[Presentación UI/UX en Canva](https://www.canva.com/design/DAHCFGjVfgI/ZUf8sKgSINA2wheZSoEZyQ/view?utm_content=DAHCFGjVfgI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdeab808e19)**
     > *Diapositivas utilizadas para la exposición de la interfaz, gamificación y estética frente a los requerimientos del proyecto.*
 
 ---
