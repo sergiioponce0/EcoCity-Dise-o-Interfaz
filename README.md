@@ -48,7 +48,7 @@ La interfaz utiliza un diseño limpio sobre fondos claros (tonos pastel muy suti
 
 En los siguientes enlaces se puede consultar el trabajo de prototipado y la defensa del diseño gráfico:
 
-* 🎨 **[Prototipo Interactivo en Figma](ENLACE_A_TU_FIGMA_AQUI)**
+* 🎨 **[Prototipo Interactivo en Figma](https://www.figma.com/make/CApOmmRo0n5dTO5omwxaI6/EcoCity-Incident-Reporting-App?t=a3OiZE21MQhIDv0f-1)**
     > *Contiene los wireframes, flujos de pantalla, paleta de colores y componentes Material Design utilizados.*
 
 * 📊 **[Presentación UI/UX en Canva](https://www.canva.com/design/DAHCFGjVfgI/ZUf8sKgSINA2wheZSoEZyQ/view?utm_content=DAHCFGjVfgI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdeab808e19)**
